@@ -6,25 +6,27 @@ Olá! Este repositório faz parte do projeto da disciplina de Interação Homem 
 
 ## 1. Introdução (Até dia 04/04)
 
-***1.1.  Nome do Grupo***
+***1.1.Grupo 8***
+- <a href="https://github.com/Annyyzinha?query=gleissonsantosvieira065%40gmail.com">github.com/Annyyzinha</a>
+- <a href="https://github.com/gleisson-santos-dev">github.com/gleisson-santos-dev</a>
+- <a href="https://github.com/pauloandre7">github.com/pauloandre7</a>
+- <a href="https://github.com/WericksonDauta">github.com/WericksonDauta</a>
 
-Indicar o nome e github dos integrantes do grupo
 
 ***1.2.  Problema***
 
-Descreva a situação atual e o problema que sua solução computacional visa resolver.
+Problema de adaptação e falta de conhecimento por parte dos professores, acerca das novas tecnologias aplicadas dentro da sala de aula.
 
 ***1.3.  Análise dos sistemas concorrentes***
 
-Analise  duas (2) soluções concorrentes e as descreva no contexto do seu problema. Você pode considerar alternativas não computacionais como concorrentes.
+**Youtube** - É um fonte bem conhecida onde pode se obter diversos conhecimentos sobre diversos temas, ele não é especificamente criado para o problema, mas é uma opção bem comum e prática para essa finalidade.
 
 ***1.2.  Público Alvo***
 
 Realize uma pesquisa sobre os seus potenciais usuários considerando as alternativas abaixo:
 
-**Opção 1:** Crie um questionário e aplique-o  com potenciais usuários reais  (pelo menos 10 pessoas). Anexe o seu questionário e as respostas obtidas (prints do Google Forms).  Apresente uma análise  resumida das respostas do questionário.  Observação: respostas ao questionário devem ser anônimas.
+**Opção 2:** Será realizada uma entrevista, com professores que tiveram esse problema, e se já se adaptaram, passando questionamentos acerca do meio que o app a ser desenvolvido visa solucionar o problema.
 
-**Opção 2:** Crie um roteiro de entrevista semiestruturada e aplique-a com um ou mais especialistas no domínio de sua solução. Lembre-se que as questões devem ajudar a entender, além do domínio, as necessidades do seu público-alvo. Anexe o roteiro e a transcrição das respostas coletas.
 
 ## 2. Perfil do usuário (Até dia 18/04)
 
