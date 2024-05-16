@@ -53,7 +53,14 @@ Apresente os requisitos funcionais do sistema (listagem de tudo o que o sistema 
     
 ***3.2. Descrição textual***    
 
-Apresente uma descrição textual resumida do seu design.  Quais as funcionalidades, principais escolhas de design, dentre outros. 
+Decidimos fazer uma tela com um side menu estático, onde as views são renderizadas conforme a opção escolhida no side-menu. O usuário pode abrir as opções de sua conta clicando no ícone de usuário no topo do side-menu, além de também ser capaz de trocar a turma escolhida por ali.
+
+Na view de Turma há um dashboard com informações gerais da turma, a fim de expor ao professor dados importantes.
+Na view Planner são expostos os compromissos que o professor terá no dia. A visão é à nível de dia, mostrando uma linha temporal do dia com os eventos do professor.
+Na view Calendário, o professor tera uma visão à nível de Mês, mostrando todos os dias do mês e um sinal nos dias que haverão compromissos.
+A view de cadastro de turma aparece em forma de pop-up, quando o usuário clicar no botão de cadastrar turma na view de turmas. O usuário irá passar por um cadastro sequencial, onde o usuário primeiro cadastra as informações da turma, depois os alunos e na última etapa ele confirma.
+A view de cadastro de usuário também aparece como pop-up. O cadastro é bem simples, sendo necessário apenas informações pessoais básicas e o login.
+A view de adição de eventos também é pop-up. O usuário preenche as informações do evento e confirma (ou cancela).
 
 ***3.3. Design preliminar***      
 
