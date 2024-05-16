@@ -60,8 +60,8 @@ Apresente uma descrição textual resumida do seu design.  Quais as funcionalida
 Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas relativas à interface do seu sistema. 
 
 ## 4. Protótipo (Até dia 23/05)
+Protótipo de  baixa fidelidade <a href="Prototipos/IHC - Projeto TManager baixa fidelidade.pdf">link</a>
 
-Apresentar o protótipo "em uso". Seu protótipo deve ser construído utilizando o Figma. 
 
 ## 5. Avaliação e Re-Design (Até dia 13/06)
 
