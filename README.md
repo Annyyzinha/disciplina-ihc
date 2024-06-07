@@ -74,9 +74,7 @@ Protótipo de  baixa fidelidade <a href="Prototipos/IHC - Projeto TManager baixa
 
 ***5.1. Avaliação com usuários*** 
 
-Esta avaliação consiste na aplicação do método Think  Aloud com dois usuários. Vocês devem gravar o áudio do usuário e a tela do protótipo durante o teste.
-
--   Apresentar um vídeo de 3 minutos que resume os principais problemas encontrados.    
+Esta avaliação consiste na aplicação do método Think  Aloud com ao menos um usuário. Vocês devem gravar o áudio do usuário e a tela do protótipo durante o teste.  
 
 ANTES de conduzir o teste, defina as seguintes questões:
 
@@ -93,6 +91,7 @@ Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 -   Descrever  a avaliação e os resultados obtidos (quais problemas foram identificados no seu design?).    
 -   Resumir os resultados das avaliações com análise crítica referente a se os princípios e metas de usabilidade considerados importantes para o seu sistema foram satisfeitos ou não.
 - Apresentar uma análise crítica da avaliação realizada, com identificação de problemas e sugestões de melhorias (quais modificações devem ser realizadas na próxima versão do protótipo?).
+- A gravação do teste realizado com os usuários deve ser apresentada e estar disponível no GitHub, lembrando que o participante deve se manter anônimo. 
 
 ## Referências
 
