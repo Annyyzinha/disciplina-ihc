@@ -78,13 +78,29 @@ Esta avaliação consiste na aplicação do método Think  Aloud com ao menos um
 
 ANTES de conduzir o teste, defina as seguintes questões:
 
--   O que se deseja obter?    
--   Quando e onde vai acontecer?    
--   Qual a duração prevista de cada sessão?    
--   Qual o estado do sistema no início do teste?    
--   Quem serão os usuários?    
--   Quais tarefas serão solicitadas aos usuários?    
--   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?    
+-   O que se deseja obter?
+
+    A avaliação busca obter feedback sobre a usabilidade e a experiência do usuário com o sistema.    
+-   Quando e onde vai acontecer?
+
+    A avaliação ocorrerá no dia 05/06 em uma sala reservada, apenas com o usuário que irá realizar o teste.
+-   Qual a duração prevista de cada sessão?
+
+    A sessão de teste com um usuário pode durar entre 1 minuto a 2 minutos, dependendo da complexidade das tarefas e da familiaridade do usuário com o sistema.
+-   Qual o estado do sistema no início do teste?
+
+    O sistema estará no estado inicial, com todas as funcionalidades disponíveis para o usuário explorar durante o teste. 
+-   Quem serão os usuários?
+
+    O usuário será uma aluna.
+-   Quais tarefas serão solicitadas aos usuários?
+
+    As tarefas incluirão navegar pelo side menu, acessar as views de Turma, Planner, Calendário, realizar cadastro de turma e usuário, e adicionar eventos ao calendário. 
+-   Qual critério será utilizado para decidir que os usuários terminaram cada tarefa corretamente?
+
+    O  usuário terá sucesso em uma tarefa quando conseguirem completá-la sem ajuda externa e sem cometer erros significativos que interfiram na realização da tarefa. Além disso, eles devem ser capazes de explicar seu raciocínio durante o processo Think Aloud.
+
+    A seguir segue o link do teste: 
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
