@@ -100,7 +100,7 @@ ANTES de conduzir o teste, defina as seguintes questões:
 
     O  usuário terá sucesso em uma tarefa quando conseguirem completá-la sem ajuda externa e sem cometer erros significativos que interfiram na realização da tarefa. Além disso, eles devem ser capazes de explicar seu raciocínio durante o processo Think Aloud.
 
-    A seguir segue o link do teste: <a href="Video/Segunda-etapa/IHC - Tmanager-videoteste.mp4">video</a>
+    A seguir segue o link do teste: <a href="Segunda-etapa/Video - Tmanager-videoteste.mp4">video</a>
 
 Por fim, os resultados devem ser analisados e apresentados da seguinte forma:
 
