@@ -69,6 +69,7 @@ Apresente uma ilustrações do design: incluir os desenhos (sketches) das telas 
 ## 4. Protótipo (Até dia 23/05)
 Protótipo de  baixa fidelidade <a href="Prototipos/IHC - Projeto TManager baixa fidelidade.pdf">link</a>
 
+Protótipo na plataforma Figma: <a href="https://www.figma.com/design/I7VzVO1PVQjS6FrlKNOxQa/IHC---Projeto-TManager?node-id=28-74&t=XfAHaSlE6sjWApez-1">LINK DO FIGMA</a>
 
 ## 5. Avaliação e Re-Design (Até dia 13/06)
 
